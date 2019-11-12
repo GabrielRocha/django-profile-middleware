@@ -3,7 +3,7 @@ An easy to use customizable django profiling middleware for Django VERSION below
 (For version 1.10 or above refer [here](https://github.com/someshchaturvedi/customizable-django-profiler))
 
 ## Requirement
-Django VERSION below 1.10 and python 2.x
+Django VERSION below 1.10 and python 3.x
 
 ## Installation
 
